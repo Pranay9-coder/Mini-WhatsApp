@@ -1,0 +1,16 @@
+node_modules/
+**/node_modules/
+.env
+**/.env
+.env.local
+**/.env.local
+dist/
+build/
+coverage/
+*.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+tmp/
+temp/
+.DS_Store
